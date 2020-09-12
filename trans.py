@@ -21,7 +21,12 @@ while a<3:
             print("Account type invalid")
             a=a+1
             break
-    else:
+   
+
+
+
+
+else:
         #if a != 3:
         print("ur pin is invalid, please try again")
         a=a+1 
