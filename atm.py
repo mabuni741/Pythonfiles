@@ -21,12 +21,16 @@ while a<3:
         else:
             print("Account type invalid")
             a=a+1
-    else:
-        a=a+1   
-        #if a != 3:
-        print("ur pin is invalid, please try again") 
-else:
-    print("Your account is blocked for 24 hours")
+  
+
+
+
+# else:
+    #    a=a+1   
+     #   #if a != 3:
+      #  print("ur pin is invalid, please try again") 
+#else:
+ #   print("Your account is blocked for 24 hours")
        
 
 
