@@ -14,6 +14,9 @@
 #         x+=1
 # print()
 
+
+
+
 a=int(input("enter a value:"))
 for i in range(1,a+1):
     x=i
